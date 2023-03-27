@@ -1,0 +1,10 @@
+.placeholder-card-image{
+    height: 300px;
+    object-fit: contain;
+}
+.description{
+overflow: hidden;
+display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+}
